@@ -1,0 +1,8 @@
+
+# Ignore the configuration files
+
+
+# Ignore other files
+
+*.DS_Store
+scan_script.back.sh
